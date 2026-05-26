@@ -106,4 +106,4 @@ Para acceder a las instrucciones detalladas paso a paso, explicaciones exhaustiv
 
 ## Autores
 
-* **Juan Carlos López** - [JuanEnC](https://www.google.com/search?q=https://github.com/JuanEnC)
+* **Juan Carlos López** - [JuanEnC](http://github.com/JuanEnC)
