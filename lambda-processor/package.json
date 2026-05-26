@@ -1,0 +1,15 @@
+{
+  "name": "lambda-processor",
+  "version": "1.0.0",
+  "description": "Funcion Serverless para la extraccion de metadatos de Amazon S3 y persistencia en Amazon RDS",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JuanEnC",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.9.0"
+  }
+}
