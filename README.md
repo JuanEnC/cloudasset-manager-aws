@@ -100,7 +100,7 @@ El flujo de información a través del sistema sigue un patrón lineal y asíncr
 
 Para acceder a las instrucciones detalladas paso a paso, explicaciones exhaustivas de cada comando, guías de resolución de problemas técnicos y configuraciones avanzadas de alertas operativas, consulte el documento principal del proyecto:
 
-* [Manual Técnico de Implementación (PDF)](https://www.google.com/search?q=./docs/CloudAsset_Manager_Manual.pdf)
+* [Manual Técnico de Implementación (PDF)](docs/CloudAsset_Manager_Manual.pdf)
 
 ---
 
